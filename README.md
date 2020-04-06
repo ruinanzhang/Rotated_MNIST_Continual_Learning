@@ -15,5 +15,5 @@ In this projct, our group exlpored the rotated MNIST dataset with two continual 
 
 ### Dataset
 
-![Rotated MNIST](img/1.png)
+![Rotated MNIST](img/1.png){:height="50%" width="50%"}
 
