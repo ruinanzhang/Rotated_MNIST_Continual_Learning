@@ -12,6 +12,9 @@ In this projct, our group exlpored the rotated MNIST dataset with two continual 
 -  (1) Elastic Weights Consolidation (EWC) Strategy (code can be found both in repo or [here](https://www.kaggle.com/ruinanzhang44/project-2-rotated-mnist?scriptVersionId=31495772))
 
 - (2) Gradient Episodic Memory (GEM) (code can be found both in repo or [here](https://colab.research.google.com/drive/1rgihSIEjvY0EdNOOLzKjcX11uT5olnCQ))
+!!! To run GEM please also use google drive to download zip dataset: 
+https://drive.google.com/open?id=1QSi3ua8e41kUDu364s4e_hs5lBJUNN31
+
 
 ### Dataset
 Training Dataset: 60000 * 28 * 28
