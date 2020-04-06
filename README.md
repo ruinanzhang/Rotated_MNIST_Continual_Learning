@@ -21,7 +21,7 @@ MNIST VS Rotated MNIST
 
 ### Result 
 
-- (1) EWC run on total 10 task: 
+- (1) EWC run on total 10 task with final acc 85.78%: 
 
 ![EWC res](img/2.png)
 
