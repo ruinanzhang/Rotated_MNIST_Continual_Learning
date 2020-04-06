@@ -15,5 +15,13 @@ In this projct, our group exlpored the rotated MNIST dataset with two continual 
 
 ### Dataset
 
-![Rotated MNIST](img/1.png){:height="50%" width="50%"}
+MNIST VS Rotated MNIST
+
+![Rotated MNIST](img/1.png)
+
+### Result 
+
+- (1) EWC run on total 10 task: 
+
+![EWC res](img/2.png)
 
